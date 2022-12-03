@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+body {
+  background-image: url(https://cdnb.artstation.com/p/assets/images/images/029/320/295/original/bogdan-mb0sco-coffeeanim.gif?1601147277);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.container {
+  width: 800px;
+  height: 650px;
+  margin: 50px auto;
+  padding: 50px;
+  background-color: #000000bd;
+}
+.container h1 {
+  color: orange;
+  padding: 6px;
+}
+
+.item h2 {
+  padding: 20px 0;
+  color: orangered;
+}
+.chai{
+  display: flex;
+  justify-content: space-between;
+  padding-top:8px;
+}
+.item-name{
+  size: 1rem;
+  background-color: black;
+  color: antiquewhite;
+  font-weight: bolder;
+  font-size: larger;
+}
+.Price {
+  align-items: center;
+  background-color: rebeccapurple;
+  font-weight: bolder;
+  font-size: larger;
+  width: 100px;
+  border-bottom: 2px dotted white;
+}
+
