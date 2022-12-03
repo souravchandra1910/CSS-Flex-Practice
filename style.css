@@ -26,12 +26,12 @@ body {
   padding: 20px 0;
   color: orangered;
 }
-.chai{
+.chai {
   display: flex;
   justify-content: space-between;
-  padding-top:8px;
+  padding-top: 8px;
 }
-.item-name{
+.item-name {
   size: 1rem;
   background-color: black;
   color: antiquewhite;
@@ -52,13 +52,20 @@ body {
     background-color: lightblue;
     background-size: 3500px 3620px;
   }
-  .chai{
+  
+.item h2 {
+    padding: 57px 0;
+    color: orangered;
+}
+  .chai {
     width: 800px;
   }
-  .container{
+  .container {
     width: 1000px;
-    height: 600px;
+    height: 1014px;
+    margin: 181px auto;
+    padding: 86px;
+    padding-bottom: 142px;
+    align-items: center;
   }
-  
 }
-
